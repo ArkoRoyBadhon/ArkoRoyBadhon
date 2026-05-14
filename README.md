@@ -1,4 +1,4 @@
-![MasterHead][https://res.cloudinary.com/dlfxrxafc/image/upload/v1778733251/aaaa_ktcwvc.jpg]
+![MasterHead](https://res.cloudinary.com/dlfxrxafc/image/upload/v1778733251/aaaa_ktcwvc.jpg)
 
 <h1 align="center">Hi 👋, I'm Arko Roy Badhon</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
